@@ -193,18 +193,5 @@ A variable-length encoding of Unicode code points using one to four bytes. For e
 **Version control**  
 A method for recording and managing changes to files over time. Git is a version-control system; hosting a repository online is a separate service and is not automatically a complete backup strategy.
 
-## Additional instructional notes
-
-- **Number bases:** `10₂ = 2₁₀`, `10₁₀ = 10₁₀`, and `10₁₆ = 16₁₀`. The same written digits can represent different values depending on the base.
-- **Bits and switches:** A switch is an analogy for two states. Actual computers may represent bits using electrical, magnetic, or other physical states.
-- **Text:** Do not equate a character, Unicode code point, glyph, and byte. They are related concepts, but not interchangeable.
-- **Errors:** Syntax, runtime, and logic errors are useful beginner categories, though real failures may overlap.
-- **Flow of a lesson:** Explanation → Demonstration → Practical Application, with Predict → Test → Explain activities where helpful.
-
-## Maintenance and contribution notes
-
-This is the **shared foundation glossary**, not the final complete glossary for every language. Add new terms as chapters are edited, and record technical reviews before treating definitions as final. Suggested metadata for a future CSV or LMS export: `term_id`, `term`, `definition`, `first_lesson_id`, `language_notes`, `review_status`.
-
-For the companion GitHub repository, place this file at `shared-resources/glossary/Computer_Science_Foundations_Glossary.md` and link to it from the repository's main `README.md`. This is a proposed path, not an existing repository link.
 
 
